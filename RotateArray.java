@@ -1,5 +1,5 @@
 // "static void main" must be defined in a public class.
-public class Main {
+public class RotateArray {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
         System.out.println(Arrays.toString(rotateArray(arr, arr.length, -1)));
